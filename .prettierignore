@@ -1,6 +1,7 @@
 test/fixtures/**/*.md
 test/fixtures/**/*.astro
 **/dist
+**/docs
 pnpm-lock.yaml
 .github
 .changeset
