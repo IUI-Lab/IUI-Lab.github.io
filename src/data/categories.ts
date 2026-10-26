@@ -1,5 +1,7 @@
 // List of categories for blog posts
 export const CATEGORIES = [
+	'投稿',
+	'研究室について',
 	'Category 1',
 	'Category 2',
 	'Category 3',
