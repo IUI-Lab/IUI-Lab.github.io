@@ -7,8 +7,225 @@ category: '研究室について'
 tags: ['研究室', '国際会議', '国内会議', '論文']
 ---
 
-<ul style="line-height: 1rem;">
-  <li>文献1</li>
-  <li>文献2</li>
-  <li>文献3</li>
-</ul>
+## ジャーナル論文
+
+<style>
+ul {
+  line-height: 1.5rem;
+}
+.emp {
+  color: red;
+}
+</style>
+
+- 高山 千尋，永徳 真一郎，二瓶 芙巳雄，石井 亮，中野 有紀子，対話の雰囲気を正確に伝える映像要約技術，情報処理学会論文誌情報処理学会論文誌 67 (1), 12-24, 2026-01-15，情報処理学会．<span class="emp">【JIP特選論文】</span>
+- 曽 傑, 中野 有紀子, 坂戸 達陽, 意味内容に基づくインタビュアー応答生成モデルの作成と評価, 人工知能学会論文誌, 2024, 39 巻, 3 号, p. IDS6-A_1-15, 公開日 2024/05/01, Online ISSN 1346-8030, Print ISSN 1346-0714, https://doi.org/10.1527/tjsai.39-3_IDS6-A, https://www.jstage.jst.go.jp/article/tjsai/39/3/39_39-3_IDS6-A/_article/-char/ja,
+- Yukiko I. Nakano, Fumio Nihei, Ryo Ishii, Ryuichiro Higashinaka, Selecting Iconic Gesture Forms Based on Typical Entity Images, Journal of Information Processing, 2024, Volume 32, Pages 196-205, Released on J-STAGE February 15, 2024, Online ISSN 1882-6652, https://doi.org/10.2197/ipsjjip.32.196, https://www.jstage.jst.go.jp/article/ipsjjip/32/0/32_196/_article/-char/en.
+- Atsushi Ito, Yukiko I. Nakano, Fumio Nihei, Tatsuya Sakato, Ryo Ishii, Atsushi Fukayama, Takao Nakamura, Estimating and Visualizing Persuasiveness of Participants in Group Discussions, Journal of Information Processing, 2023, 31 巻, p. 34-44, 公開日 2023/02/15
+- Mawalim, C.O., Okada, S., Nakano, Y.I. et al. Personality trait estimation in group discussions using multimodal analysis and speaker embedding. J Multimodal User Interfaces, Volume 17, pages 47–63, 2023. https://doi.org/10.1007/s12193-023-00401-0
+- 曽 傑, 中野 有紀子, 知識と話題の埋め込み表現に基づく質問生成と対話システムへの適用―料理嗜好インタビューシステムに向けて―, 自然言語処理, 2021, 28 巻, 2 号, p. 598-631, 公開日 2021/06/15, Online ISSN 2185-8314, Print ISSN 1340-7619, https://doi.org/10.5715/jnlp.28.598, https://www.jstage.jst.go.jp/article/jnlp/28/2/28_598/_article/-char/ja
+- 中野 有紀子, 大山 真央, 二瓶 芙巳雄, 東中 竜一郎, 石井 亮, 性格特性を表現するエージェントジェスチャの生成, ヒューマンインタフェース学会論文誌, 2021, 23 巻, 2 号, p. 153-164, 公開日 2021/05/25, Online ISSN 2186-8271, Print ISSN 1344-7262, https://doi.org/10.11184/his.23.2_153
+- Candy Olivia Mawalim, Shogo Okada,Yukiko I. Nakano: Task-Independent Recognition of Communication Skills in Group Interaction Using Time-Series Modeling. ACM Transactions on. Multimedia Computing, Communications, and Applications (TOMM), Volume 17, Issue 4, Article No.: 122, November 2021.
+- 二瓶芙巳雄; 田口和佳奈; 中野有紀子; 深澤伸一; 赤津裕子 多人数遠隔コミュニケーションにおける肯定的感情表出支援の効果と支援適用タイミングの決定. 情報処理学会論文誌，Vol.62, No.2, pp. 761-771, 2021.2.15．
+- 二瓶 芙巳雄, 中野 有紀子, マルチモーダル情報に基づく重要発言推定モデルを搭載した議論要約ブラウザの有効性の検証, ヒューマンインタフェース学会論文誌, 2020, 22 巻, 2 号, p. 137-150, 公開日 2020/05/25, Online ISSN 2186-8271, Print ISSN 1344-7262, https://doi.org/10.11184/his.22.2_137.
+- Nihei, F.; Nakano, Y.I. Exploring Methods for Predicting Important Utterances Contributing to Meeting Summarization. Multimodal Technologies Interact. 3(3), 50. 6 July, 2019.
+- 二瓶 芙巳雄，中野 有紀子，高瀬 裕：言語・非言語情報に基づく議論要約のための重要発言推定，電子情報通信学会論文誌 A, Vol.J102-A, No.2, pp.35-47, Feb. 2019.
+- 高瀬 裕，吉野 尭，中野 有紀子：多人数会話における調整・介入機能を有する対話ロボット, 情報処理学会論文誌, 58(5), 967-980, 2017.
+- 二瓶 芙巳雄，高瀬 裕，中野 有紀子：非言語情報に基づくグループ議論における重要発言の推定－グループ議論の要約生成に向けて－，電子情報通信学会論文誌 A, Vol.J100-A, No.1, pp. 34-44, Jan. 2017.
+- 岡田 将吾, 松儀 良広, 中野 有紀子, 林 佑樹, 黄 宏軒, 高瀬 裕, 新田 克己, マルチモーダル情報に基づくグループ会話におけるコミュニケーション能力の推定, 人工知能学会論文誌, 2016, 31 巻, 6 号, p. AI30-E_1-12, 公開日 2016/11/02　<span class="emp">【人工知能学会創設30周年記念特集論文最優秀賞】</span>
+- Yukiko I. Nakano, Takashi Yoshino, Misato Yatsushiro, and Yutaka Takase. Generating Robot Gaze on the Basis of Participation Roles and Dominance Estimation in Multiparty Interaction. ACM Transactions on Interactive Intelligent Systems. - Regular Articles and Special issue on New Directions in Eye Gaze for Interactive Intelligent Systems (Part 1 of 2), Volume 5 Issue 4, Article No. 22, December 2015. DOI=http://dx.doi.org/10.1145/2743028
+- 石井亮，小澤史朗，小島明，大塚和弘，林佑樹，中野有紀子：３次元空間を重畳する鏡インタフェースＭＩＯＳＳの提案と評価, ヒューマンインタフェース学会論文誌, Vol.17, No.3, pp. 255-264, 2015.
+- 高瀬裕，三武裕玄，長谷川晶一，中野有紀子：環境音の音場操作を用いた方向情報提示：感覚刺激の低減による聴覚ディスプレイ, ヒューマンインタフェース学会論文誌, Vol.17, No.2, pp. 179-190, 2015.
+- 林 佑樹，二瓶 芙巳雄，中野 有紀子，黄 宏軒，岡田 将吾：グループディスカッションコーパスの構築および性格特性との関連性の分析，情報処理学会論文誌，Vol.56, No.4, pp. 1217-1227, 2015.
+- 林佑樹，小川裕史，中野有紀子 : 協調学習における非言語情報に基づく学習態度の可視化，情報処理学会論文誌 特集号 『社会活動に協調する技術とネットワークサービス』, Vol.55, No.1, pp. 189-198, 2014.
+- 中野有紀子，馬場直哉，黄宏軒，林佑樹 : 非言語情報に基づく受話者推定機構を用いた多人数会話システム，人工知能学会論文誌 特集号『知的対話システム』, Vol.29, No.1, pp. 69-79, 2014.
+- 石井　亮 小澤　史朗 川村　春美 小島　明 中野　有紀子 : 窓越しインタフェースMoPaCoによる指示作業への効果検証，電子情報通信学会論文誌 D, Vol.J96-D, No.12, pp. 3044-3054, 2013.
+- Endrass, B., André, E., Rehm, M., and Nakano, Y. : Investigating culture-related aspects of behavior for virtual characters, Autonomous Agents and Multi-Agent Systems, September 2013, Volume 27, Issue 2, pp 277-304, 2013.
+- 馬場直哉，黄 宏軒，中野有紀子 : 人対会話エージェントとの多人数会話における頭部方向と音声情報を用いた受話者推定機構，人工知能学会論文誌，Vol. 28, No. 2, pp. 149-159, 2013.
+- 石井 亮, 小澤 史朗, 川村 春美, 小島 明, 中野 有紀子 : 映像コミュニケーションにおける窓越しインタフェースＭｏＰａＣｏによるテレプレゼンスの増強, 電子情報通信学会論文誌 D, Vol. J96-D, No. 1, pp.110-119, 2013.
+- Ishii, R., Nakano, Y. I., and Nishida, T. : Gaze Awareness in Conversational Agents: Estimating User's Conversational Engagement from Eye-Gaze, ACM Transactions on Interactive Intelligent Systems, Vol. 3, No. 2, Article 11, pp. 11:1-11:25, August 2013.
+- 塚本 剛生，中野 有紀子 : メタバースにおける言語・空間情報に基づくアバタへの道案内ジェスチャの自動付与，日本バーチャルリアリティ学会論文誌 17(2), 79-89, 2012.
+- 石井亮，大古亮太，中野有紀子，西田豊明 : 視線と頭部動作に基づくユーザの会話参加態度の推定，情報処理学会論文誌, Vol. 52 No. 12 3625–3636, 2011.
+
+## 国際会議論文
+
+- Ryo Ishii, Chihiro Takayama, Jiro Nagao, Toshiki Onishi, Yukiko Nakano, and Junichi Sawase. 2026. Self-Distillation as a Structure-Dependent Mechanism in Multimodal Dialogue via Multi-Context Modeling. In Proceedings of the 28th International Conference On Multimodal Interaction (ICMI '26). Association for Computing Machinery, New York, NY, USA, 1212–1220. https://doi.org/10.1145/3776574.3831234
+- Hiyori Toda, Jie Zeng, Fumio Nihei, Chihiro Takayama, Ryo Ishii, Masatsugu Tsujii, and Yukiko Nakano. 2026. Modeling Participant Behavior Across Utterances and Silent Intervals for Engagement Estimation of Individuals with ASD. In Companion Publication of the 28th International Conference on Multimodal Interaction (ICMI Companion '26). Association for Computing Machinery, New York, NY, USA, 96–100. https://doi.org/10.1145/3776591.3832510
+- Kazuki Nakaya, Jie Zeng, Fumio Nihei, and Yukiko Nakano. 2026. Analyzing Speaker-Role Representations in LLMs for Group Discussions. In Companion Publication of the 28th International Conference on Multimodal Interaction (ICMI Companion '26). Association for Computing Machinery, New York, NY, USA, 260–264. https://doi.org/10.1145/3776591.3837050
+- Hiroki Tsuchiya, Fumio Nihei, Jie Zeng, Yukiko I. Nakano, A Conversational Agent for Motivational Interviewing with Summary Prediction, IEEE RO-MAN 2026.
+- Jie Zeng and Yukiko Nakano. 2026. Schema-Guided Response Generation using Multi-Frame Dialogue State for Motivational Interviewing Systems. In Findings of the Association for Computational Linguistics: ACL 2026, pages 41493–41524, San Diego, California, United States. Association for Computational Linguistics.
+- Kazuki Kodaira, Kazuki Nakaya, Jie Zeng, Hiyori Toda, Fumio Nihei, Ryo Ishii, and Yukiko I. Nakano. 2025. Identifying Participant Roles in Online Group Discussions. In Companion Proceedings of the 27th International Conference on Multimodal Interaction (ICMI '25 Companion). Association for Computing Machinery, New York, NY, USA, 53–57. https://doi.org/10.1145/3747327.3763042
+- Jie Zeng, Yukiko I. Nakano, Schema-Guided Response Generation using Multi-Frame Dialogue State for Motivational Interviewing Systems, arXiv preprint arXiv:2508.20635, 2025.
+- Chisa Kobayashi, Ibuki Hoshina, Tatsuya Sakato, Masatsugu Tsujii, Fumio Nihei, Chihiro Takayama, Ryo Ishi, Kalin Stefanov, Yukiko Nakano. Automatic Detection of Communication Difficulties in Neurodiverse Group Conversations, the International Society for Autism Research Annual Meeting (INSAR 2025).
+- Ibuki Hoshina, Chisa Kobayashi, Tatsuya Sakato, Masatsugu Tsujii, Fumio Nihei, Chihiro Takayama, Ryo Ishi, Kalin Stefanov, Yukiko Nakano. Estimating Social Responsiveness of Adults with ASD in Group Conversations, the International Society for Autism Research Annual Meeting (INSAR 2025).
+- Sahba Zojaji, Yukiko I. Nakano, and Christopher Peters. 2025. Impact of Cultural Differences and Politeness on Joining Groups of Humans, Robots, and Virtual Characters. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 479–488.
+- Kalin Stefanov, Yukiko I. Nakano, Chisa Kobayashi, Ibuki Hoshina, Tatsuya Sakato, Fumio Nihei, Chihiro Takayama, Ryo Ishii, and Masatsugu Tsujii. 2024. Participation Role-Driven Engagement Estimation of ASD Individuals in Neurodiverse Group Discussions. In Proceedings of the 26th International Conference on Multimodal Interaction (ICMI '24). Association for Computing Machinery, New York, NY, USA, 556–564. https://doi.org/10.1145/3678957.3685721
+- Jie Zeng, Yoshiki Takahashi, Yukiko I. Nakano, Tatsuya Sakato, and Hannes Högni Vilhjálmsson. 2024. Modifying Gesture Style with Impression Words. In Proceedings of the 24th ACM International Conference on Intelligent Virtual Agents (IVA '24). Association for Computing Machinery, New York, NY, USA, Article 15, 1–9. https://doi.org/10.1145/3652988.3673931
+- Jie Zeng, Yukiko Nakano, and Tatsuya Sakato. Question Generation to Elicit Users’ Food Preferences by Considering the Semantic Content. In Proceedings of the 24th Meeting of the Special Interest Group on Discourse and Dialogue, pages 190–196, Prague, Czechia. Association for Computational Linguistics, 2023.
+- Nihei, F., Ishii, R., Nakano, Y.I., Fukayama, A. and Nakamura, T. 2023. Whether Contribution of Features Differ Between Video-Mediated and In-Person Meetings in Important Utterance Estimation. ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2023), 1–5.
+- Jie Zeng, Tatsuya Sakato, and Yukiko I. Nakano. Semantic Content Prediction for Generating Interviewing Dialogues to Elicit Users' Food Preferences. In Proceedings of the Second Workshop on When Creative AI Meets Conversational AI, in the 29th International Conference on Computational Linguistics (COLING2022), pp. 45－58, 2022.10.
+- Yukiko I. Nakano, Eri Hirose, Tatsuya Sakato, Shogo Okada, and Jean-Claude Martin. 2022. Detecting Change Talk in Motivational Interviewing using Verbal and Facial Information. In Proceedings of the 2022 International Conference on Multimodal Interaction (ICMI '22). Association for Computing Machinery, New York, NY, USA, 5–14. https://doi.org/10.1145/3536221.3556607 [Best Paper Award Runner-up]
+- Nihei, F., Ishii, R., Nakano, Y., Nishida, K., Masumura, R., Fukayama, A., Nakamura, T. (2022) Dialogue Acts Aided Important Utterance Detection Based on Multiparty and Multimodal Information. Proc. Interspeech 2022, 1086-1090, doi: 10.21437/Interspeech.2022-324
+- Atsushi Ito, Yukiko I. Nakano, Fumio Nihei, Tatsuya Sakato, Ryo Ishii, Atsushi Fukayama, and Takao Nakamura. 2022. Predicting Persuasiveness of Participants in Multiparty Conversations. In 27th International Conference on Intelligent User Interfaces (IUI '22 Companion). Association for Computing Machinery, New York, NY, USA, 85–88. DOI:https://doi.org/10.1145/3490100.3516466
+- Fumio Nihei and Yukiko I. Nakano. 2021. Web-ECA: A Web-based ECA Platform. Proceedings of the 2021 International Conference on Multimodal Interaction. Association for Computing Machinery, New York, NY, USA, 835–836. DOI:https://doi.org/10.1145/3462244.3481302
+- Ryosuke Ueno, Yukiko I. Nakano, Jie Zeng, and Fumio Nihei. 2020. Estimating the Intensity of Facial Expressions Accompanying Feedback Responses in Multiparty Video-Mediated Communication. In Proceedings of the 2020 International Conference on Multimodal Interaction (ICMI '20). Association for Computing Machinery, New York, NY, USA, 144–152. DOI:https://doi.org/10.1145/3382507.3418878
+- Ryo Ishii, Chaitanya Ahuja, Yukiko I. Nakano, and Louis-Philippe Morency. 2020. Impact of Personality on Nonverbal Behavior Generation. In Proceedings of the 20th ACM International Conference on Intelligent Virtual Agents (IVA '20). Association for Computing Machinery, New York, NY, USA, Article 29, 1–8. DOI:https://doi.org/10.1145/3383652.3423908
+- C. Ahuja, D. W. Lee, Y. I. Nakano, and L.-P. Morency, “Style transfer for co-speech gesture animation: A multi-speaker conditional mixture approach,” ECCV, 2020.
+- Jie Zeng and Yukiko I. Nakano: Exploiting a Large-scale Knowledge Graph for Question Generation in Food Preference Interview Systems, In Proceedings of the 25th International Conference on Intelligent User Interfaces Companion (ACM IUI’20 Companion), March 17–20, 2020, Cagliari, Italy.
+- Fumio Nihei and Yukiko I. Nakano: A Multimodal Meeting Browser that Implements an Important Utterance Detection Model based on Multimodal Information, In Proceedings of the 25th International Conference on Intelligent User Interfaces Companion (ACM IUI’20 Companion), March 17–20, 2020, Cagliari, Italy.
+- Fumio Nihei, Yukiko I. Nakano, Ryuichiro Higashinaka, Ryo Ishii: Determining Iconic Gesture Forms based on Entity Image Representation. ICMI 2019: 419-425
+- Candy Olivia Mawalim, Shogo Okada, Yukiko I. Nakano, Masashi Unoki: Multimodal BigFive Personality Trait Analysis Using Communication Skill Indices and Multiple Discussion Types Dataset. HCI (13) 2019: 370-383
+- Shinichi Fukasawa, Hiroko Akatsu, Wakana Taguchi, Fumio Nihei, Yukiko I. Nakano: Presenting Low-Accuracy Information of Emotion Recognition Enhances Human Awareness Performance. HCI (4) 2019: 415-424
+- Wakana Taguchi, Fumio Nihei, Yutaka Takase, Yukiko I. Nakano, Shinichi Fukasawa, and Hiroko Akatsu. 2018. Effects of face and voice deformation on participant emotion in video-mediated communication. In Proceedings of the 20th International Conference on Multimodal Interaction: Adjunct (ICMI '18). ACM, New York, NY, USA, Article 8, 5 pages, 2018. DOI: https://doi.org/10.1145/3281151.3281159
+- Fumio Nihei, Yukiko Nakano and Yutaka Takase, Fusing Verbal and Nonverbal Information for Extractive Meeting Summarization, In ICMI2018 Workshops, Workshop on Group Interaction Frontiers in Technology (GIFT 2018), 2018.
+- Jie Zeng, Yukiko I. Nakano, Takeshi Morita, Ichiro Kobayashi, Takahira Yamaguchi, Eliciting User Food Preferences in terms of Taste and Texture in Spoken Dialogue Systems, In ICMI2018 Workshops, The 3rd International Workshop on Multi-sensorial Approaches to Human-Food Interaction (MHFI 2018), 2018.
+- Ken Tomiyama, Fumio Nihei, Yukiko Nakano, Yutaka Takase. Identifying Discourse Boundaries in Group Discussions using a Multimodal Embedding Space. In Joint Proceedings of the ACM IUI 2018 Workshops, Symbiotic Interaction and Harmonious Collaboration for Wisdom Computing (SymCollab), 2018.
+- Fumio Nihei, Yukiko I. Nakano, and Yutaka Takase. Predicting meeting extracts in group discussions using multimodal convolutional neural networks. In Proceedings of the 19th ACM International Conference on Multimodal Interaction (ICMI 2017). ACM, New York, NY, USA, pp. 421-425, 2017. https://doi.org/10.1145/3136755.3136803
+- Rurika Shimizu，Yutaka Takase，Yukiko I Nakano: Audio Based Group Conversation Support System, ACM UbiComp2017, extend abstract (2017)
+- Shogo Okada, Yoshihiko Ohtake, Yukiko I. Nakano, Yuki Hayashi, Hung-Hsuan Huang, Yutaka Takase, and Katsumi Nitta: Estimating Communication Skills using Dialogue Acts and Nonverbal Features in Multiple Discussion Datasets, 18th ACM International Conference on Multimodal Interaction (ICMI2016), pp. 169-176, 2016.
+- Fumio Nihei, Yukiko I. Nakano, and Yutaka Takase: Meeting Extracts for Discussion Summarization based on Multimodal Nonverbal Information, 18th ACM International Conference on Multimodal Interaction (ICMI2016), pp. 185-192, 2016.
+- Vrzakova, H., Bednarik, R., Nakano, Y., Nihei, F.: Speakers' head and gaze dynamics weakly correlate in group conversation Proceedings of the Ninth Biennial ACM Symposium on Eye Tracking Research & Applications, pp. 77-84, ACM, 2016. http://dx.doi.org/10.1145/2857491.2857522
+- Toshiki Yamanaka，Yutaka Takase, and Yukiko I. Nakano. Assessing the Communication Attitude of the Elderly using Prosodic Information and Head Motions. In Proceedings of the 11th Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts (HRI'16 Extended Abstracts). ACM, New York, NY, USA, 2016.
+- Yuki Kadono, Yutaka Takase, and Yukiko I. Nakano. Generating Iconic Gestures based on Graphic Data Analysis and Clustering. In Proceedings of the 11th Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts (HRI'16 Extended Abstracts). ACM, New York, NY, USA.
+- Rintaro Manabe, Yutaka Takase, and Yukiko I. Nakano. User Modeling and Reception Interaction by Service Robots. HRI2016 workshop on the challenge (not) to go wild! Challenges and best practices to study HRI in natural interaction settings. March 7, 2016, New Zealand.
+- Yukiko I. Nakano, Sakiko Nihonyanagi, Yutaka Takase, Yuki Hayashi, and Shogo Okada. Predicting Participation Styles using Co-occurrence Patterns of Nonverbal Behaviors in Collaborative Learning, 17th ACM International Conference on Multimodal Interaction (ICMI2015), pp. 91-98, 2015.
+- Ryo Ishii, Shiro Ozawa, Akira Kojima, Kazuhiro Otsuka, Yuki Hayashi, Yukiko I. Nakano, "Design and Evaluation of Mirror Interface MIOSS to Overlay Remote 3D Spaces", The 15th IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT 2015), pp. 319-326, 2015.
+- Naoko SAITO, Shogo OKADA, Katsumi NITTA, Yukiko I. NAKANO, and Yuki HAYASHI: "Estimating User’s Attitude in Multimodal Conversational System for Elderly People with Dementia", Turn-Taking and Coordination in Human-Machine Interaction: Papers from the 2015 AAAI Spring Symposium, pp.100-103, Palo Alto, CA, USA. (Mar. 2015)
+- Takashi Yoshino, Yutaka Takase, and Yukiko I. Nakano. 2015. Controlling Robot's Gaze according to Participation Roles and Dominance in Multiparty Conversations. In Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts (HRI'15 Extended Abstracts). ACM, New York, NY, USA, 127-128.
+- 10.1145/2701973.2702012
+- Kazufumi Tsukada, Yutaka Takase, and Yukiko I. Nakano. 2015. Selecting Popular Topics for Elderly People in Conversation-based Companion Agents. In Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts (HRI'15 Extended Abstracts). ACM, New York, NY, USA, 93-94. DOI=10.1145/2701973.2702015
+- Reo Suzuki, Yutaka Takase, and Yukiko I. Nakano. Intelligent Shop Window - Producing Dynamic Situated Augmented Reality using a Large See-through Screen- In Proceedings of The Eighth International Conference on Advances in Computer-Human Interactions (ACHI 2015). pp. 92-95, 2015.
+- Vrzakova, H., Bednarik, R., Nihei, F., Nakano, Y.: Influential statements and gaze for persuasion modeling In the 8th Nordic Conference on Human-Computer Interaction, 2014., pp. 915-918, http://dx.doi.org/10.1145/2639189.2670192
+- Nihonyanagi, S. Hayashi, Y. and Nakano, Y. I.. Analyzing Co-occurrence Patterns of Nonverbal Behaviors in Collaborative Learning. In Proceedings of the 7th Workshop on Eye Gaze in Intelligent Human Machine Interaction: Eye-Gaze & Multimodality (GazeIn '14) in ICMI2014. pp. 33-37, 2014.
+- Nihei, F., Nakano, Y. I., Hayashi, Y., Huang, H., and Okada, S. : Predicting Influential Statements in Group Discussions using Speech and Head Motion Information, 16th ACM International Conference on Multimodal Interaction (ICMI2014), pp. 136-143, 2014.
+- Takashi Yoshino, Yuki Hayashi, and Yukiko I. Nakano. 2014. Determining robot gaze according to participation roles in multiparty conversations. In Proceedings of the second international conference on Human-agent interaction (HAI '14). ACM, New York, NY, USA, 277-280. DOI=10.1145/2658861.2658941.
+- Hayashi, Y., Morita, H., Nakano, Y. I. : Estimating Collaborative Attitudes based on Non-verbal Features in Collaborative Learning Interaction, Proc. of 18th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2014), 2014.
+- Nakano, Y. I., Baba, N., Huang, H.-H., and Hayashi, Y. : Implementation and Evaluation of Multimodal Addressee Identification Mechanism for Multiparty Conversation Systems, 15th ACM International Conference on Multimodal Interaction (ICMI2013), Sydney, Australia, pp. 35-42, 2013.
+- Yatsushiro, M., Ikeda, N., Hayashi, Y., and Nakano, Y. I. : A Dominance Estimation Mechanism using Speech and Head Motion Data, 15th ACM International Conference on Multimodal Interaction (ICMI2013), 6th Workshop on Eye Gaze in Intelligent Human Machine Interaction (GazeIn’13), Sydney, Australia, 2013.
+- Hayashi, Y., Ogawa, Y., and Nakano, Y. I. : Visualization System for Analyzing Collaborative Learning Interaction, 17th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES2013), Procedia Computer Science, Vol.22, pp.1379-1387, Kitakyushu, Japan. (Sep. 2013)
+- Hayashi, Y., Ogawa, y., and Nakano, Y., I. : An Experimental Environment for Analyzing Collaborative Learning Interaction, 15th International Conference on Human-Computer Interaction (HCII2013), Lecture Notes in Computer Science (LNCS), Vol.8018, pp.43-52, Las Vegas, NV, USA. (Jul. 2013)
+- Yamauchi, T., Hayashi, Y., and Nakano, Y. I. : Searching Emotional Scenes in TV Programs based on Twitter Emotion Analysis, 15th International Conference on Human-Computer Interaction (HCII2013), Lecture Notes in Computer Science (LNCS), Vol.8029, pp.432-441, Las Vegas, NV, USA. (Jul. 2013)
+- Nakano, Y. I., Fukuhara, Y. : Estimating Conversational Dominance in Multiparty Interaction, 14th ACM International Conference on Multimodal Interaction (ICMI2012), pp77-84, 2012.
+- Baba, N., Huang, H.-H., and Nakano, Y. I. : Addressee identification for human-human-agent multiparty conversations in different proxemics, Proceedings of the 4th Workshop on Eye Gaze in Intelligent Human Machine Interaction (GazeIn’12), Article No.: 6, 2012.
+- Nonaka, Y., Sakai, Y., Yasuda, K., and Nakano, Y. I. : Towards Assessing the Communication Responsiveness of People with Dementia. Proceedings of the 12th International Conference on Intelligent Virtual Agents (IVA 2012), pp. 496-498, 2012
+- Yamauchi, T., Nakano, Y. : A Scene Explorer for TV Programs based on Twitter Emotion Analysis, Proceedings of the 10th Asia Pacific Conference on Computer Human Interaction (APCHI 2012), 2012.
+- Sakai, Y., Nonaka, Y., Yasuda, K., and Nakano, Y. I. : Listener agent for elderly people with dementia, Proceedings of the seventh annual ACM/IEEE international conference on Human-Robot Interaction (HRI2012), pp199-200, 2012.
+- Shibasaki, Y., Inaba, T., and Nakano, Y. I. : Referent identification process in human-robot multimodal communication, Proceedings of the seventh annual ACM/IEEE international conference on Human-Robot Interaction (HRI2012), pp197-198, 2012.
+- Lipi, A. A. and Nakano, Y. : How Culture and Social Relationship Affect Performing and Perceiving of Postures, in IEEE International Conference on Granular Computing (GrC 2011) Special Session on Social and Cultural Interaction, pp. 417-422, 2011.
+- Lipi, A. A., Nori, F., Endrass, B., Nakano, Y. I., and Andre, E. : How Culture and Social Relationship Affect the Perception of Agent’s Nonverbal Behaviors?, Workshop on Culturally Motivated Virtual Characters, 2011.
+- Huang, H.-H., Baba, N., and Nakano. Y. I. : Making a Virtual Conversational Agent be Aware of the Addressee of Users’ Utterances in Multi-user Conversation from Nonverbal Information, the 13th ACM International Conference on Multimodal Interaction (ICMI2011), pp. 401-408, 2011
+- Endrass, B., Nakano, Y. I., Lipi, A. A., Rehm, M., and André, E. : Culture-related Topic Selection in Small Talk Conversations across Germany and Japan, Proceedings of the 11th International Conference on Intelligent Virtual Agents (IVA 2011), pp. 1-13, 2011.
+- Baba, N., Huang, H.-H., and Nakano, Y. I. : Identifying Utterances Addressed to an Agent in Multiparty Human–Agent Conversations, the 11th International Conference on Intelligent Virtual Agents (IVA2011), pp. 255-261, 2011.
+- Ooko, R., Ishii, R., and Nakano, Y. I. : Estimating a User’s Conversational Engagement Based on Head Pose Information, the 11th International Conference on Intelligent Virtual Agents (IVA2011), pp262-268, 2011.
+- Nori, F., Lipi, A. A., and Nakano, Y. : Cultural Difference in Nonverbal Behaviors in Negotiation Conversations: Towards a Model for Culture-adapted Conversational Agents, in 14th International Conference on Human-Computer Interaction (HCII2011), 2011.
+- Tsukamoto, T., Muroya, Y., Okamoto, M., and Nakano, Y. : Collection and Analysis of Multimodal Interaction in Direction Giving Dialogues: Towards an Automatic Gesture Selection Mechanism for Metaverse Avatars, AAMAS2011 Workshop on the uses of Agents for Education, Games and Simulations, 2011.
+- Endrass, B., Andre, E., Nakano, Y. I., Rehm, M., and Lipi, A. A. : Culture-related differences in aspects of behavior for virtual characters across Germany and Japan, in the proceedings of the 10th International Conference on Autonomous Agents and Multiagent Systems (AAMAS2011), pp441-448, 2011.
+- Fukuhara Y., and Nakano, Y. : Gaze and Conversation Domination in Multiparty Interaction, in 2011 International Conference on Intelligent User Interfaces (IUI2011), Workshop on Eye Gaze in Intelligent Human Machine Interaction, Palo Alto, California, 2011.
+
+## 国内口頭発表
+
+- 小林 千紗，保科 衣吹，二瓶 芙巳雄，高山 千尋，石井 亮，辻井 正次，中野 有紀子，グループ会話における成人ASDのマルチモーダルエンゲージメント推定：分析から支援へ，2026年度人工知能学会全国大会（第40回）3I1-OS-45a-05，2026.6.10.
+- 土屋 洋輝，曽 傑，二瓶 芙巳雄，中野 有紀子，要約発話予測機能を有する動機づけ面接対話システムの構築と評価，2026年度人工知能学会全国大会（第40回）4Yin-B-46，2026.6.11.
+- 山本 崇史，二瓶 芙巳雄，中野 有紀子，音声特徴に基づく動機づけ面接エージェントの動作生成，2026年度人工知能学会全国大会（第40回）3Yin-A-62，2026.6.10.
+- 工藤 和真，曽 傑，二瓶 芙巳雄，中野 有紀子，マルチモーダルRAGを用いた動機づけ面接対話システム，2026年度人工知能学会全国大会（第40回）5Yin-A-46，2026.6.12.
+- 森田 翔真，曽 傑，坂戸 達陽，中野 有紀子，カウンセリングコーパスを利用した動機づけ面接のための大規模言語モデルの調整．2025年度人工知能学会全国大会（第39回）3R1-OS-45-04，2025.5.29.
+- 高橋 芳樹，曽　 傑，坂戸 達陽，中野 有紀子，アバタージェスチャのマルチモーダルスタイル変換によるユーザ印象への影響．2025年度人工知能学会全国大会（第39回）2D5-GS-9-02，2025.5.28.
+- 小平 和樹, 坂戸 達陽, 二瓶 芙巳雄, 石井 亮, 中野 有紀子．グループディスカッションにおける参加者役割推定のマルチモーダル・マルチパーティモデル．2025年度人工知能学会全国大会（第39回）3D5-OS-20b-02，2025.5.28.
+- 戸田 陽春，坂戸 達陽，曽 傑，二瓶 芙巳雄，高山 千尋，石井 亮，辻井 正次，中野 有紀子．マルチモーダル情報を用いたNeurodiverseなグループ会話における文脈逸脱行動の検出．2025年度人工知能学会全国大会（第39回）3D5-OS-20b-03，2025.5.28.
+- 表 洸希，坂戸 達陽，中野 有紀子，コーチング会話におけるコーチ発話分類モデルの提案．HCGシンポジウム2024, 金沢，2024年12月12日.
+- 髙橋 芳樹，曽 傑，坂戸 達陽，中野 有紀子．CGアバター動作のスタイル変換によるユーザ印象への影響．2024年度人工知能学会全国大会（第38回）3A1-GS-5-03，2024.5.30.
+- 曽 傑，中野 有紀子，坂戸 達陽．食に関する嗜好獲得に向けた意味内容に基づくインタビュアー応答生成モデルの評価．2024年度人工知能学会全国大会（第38回）[1G3-GS-6-01]，2024.5.28.
+- 土屋 洋輝，橋本 舜矢，曽 傑，坂戸 達陽，中野 有紀子．大規模言語モデルを利用した動機づけ面接会話エージェント．2024年度人工知能学会全国大会（第38回）[1N3-GS-9-04]，2024.5.28.
+- 小林 千紗，保科 衣吹，坂戸 達陽，二瓶 芙巳雄，石井 亮，深山 篤，辻井 正次，Stefanov Kalin，中野 有紀子．グループ会話における成人ASDのコミュニケーション特性分析．2024年度人工知能学会全国大会（第38回）[3R1-OS-13b-03]，2024.5.30.
+- 田中 智也，坂戸 達陽，中野 有紀子．言語，表情，音声情報を用いた動機づけ面接における発話の分類．2024年度人工知能学会全国大会（第38回）[3R1-OS-13b-04]，2024.5.30.
+- 保科 衣吹，小林 千紗，坂戸 達陽，二瓶 芙巳雄，石井 亮，深山 篤，辻井 正次，Stefanov Kalin，中野 有紀子．グループ会話における成人ASDの対人応答性の推定．2024年度人工知能学会全国大会（第38回）[3R1-OS-13b-05]，2024.5.30.
+- 廣瀬 絵理，曽 傑，坂戸 達陽，中野 有紀子．要約と文生成にもとづく動機づけ面接におけるカウンセラー発話の生成，2023年度人工知能学会全国大会（第37回）4A2-GS-6-02，2023.6.9.
+- 田中 智也，バブ シャリフ，坂戸 達陽，中野 有紀子．動機付け面接における言語，表情，音声情報を用いたChange Talkの検出，2023年度人工知能学会全国大会（第37回）3Q1-OS-19a-03，2023/6/8．
+- 伊藤 温志，坂戸 達陽，中野 有紀子，二瓶 芙巳雄，石井 亮，深山 篤，中村 高雄，グループディスカッションにおける説得力の推定とその応用，2023年度人工知能学会全国大会（第37回）4R2-OS-22a-04，2023.6.9.
+- HCGシンポジウム二瓶さん
+- 坂戸達陽，ZENG Jie，中野有紀子．ガウス混合モデルを用いたHuman-Agent Interactionにおけるユーザの表情分析，第21回情報科学技術フォーラム講演論文集 (FIT)，pp 423-426，2022.8.30.
+- 伊藤温志，坂戸達陽，中野有紀子，二瓶芙巳雄，石井亮，深山篤，中村高雄．グループディスカッションにおける説得力の推定のためのマルチパーティモデル，2022年度人工知能学会全国大会（第36回）3H3-OS-12a-02， 2022/6/14.
+- 上野諒祐，坂戸達陽，中野有紀子．マルチモーダル情報に基づく相槌的応答と表情強度の推定，2021年度人工知能学会全国大会（第35回）3E2-OS-5b-01，2021/6/8. <span class="emp">【全国大会優秀賞】</span>
+- 伊藤温志，坂戸達陽，中野有紀子．グループディスカッションにおける説得力の推定，2021年度人工知能学会全国大会（第35回）3E2-OS-5b-02，2021/6/8.
+- 二瓶 芙巳雄，中野 有紀子，東中 竜一郎，石井 亮．対象物のイメージに基づく図像的ジェスチャの形状推定，第19回情報科学技術フォーラム (FIT2020) （2020年9月1〜3日　オンライン開催）．<span class="emp">【FIT論文賞】</span>
+- 曽 傑，中野 有紀子，知識と話題の埋め込みに基づく質問生成機能を有する料理嗜好インタビューシステムの評価，2020年度人工知能学会全国大会（第34回）2H6-GS-9-02，2020/6/10.
+- 内山 和也，中野 有紀子，マルチモーダル情報に基づく学習者のエンゲージメント推定，2020年度人工知能学会全国大会（第34回）3M5-GS-12-03，2020/6/11.
+- 二瓶 芙巳雄，中野 有紀子，マルチモーダル情報に基づく重要発言推定モデルを搭載したマルチモーダル議論要約ブラウザの評価，2020年度人工知能学会全国大会（第34回）[4E2-OS-19a-02]，2020/6/12.
+- 上野 諒祐，曽 傑，中野 有紀子，マルチモーダル情報に基づく応答と表情の自動生成，2020年度人工知能学会全国大会（第34回）[4E2-OS-19a-04]，2020/6/12.
+- 田口 和佳奈，中野 有紀子，二瓶 芙巳雄，深澤 伸一，赤津 裕子，音声・表情の非言語シグナルに基づく多人数遠隔コミュニケーション支援方法，2020年度人工知能学会全国大会（第34回）4E2-OS-19a-05，2020/6/12.
+- 冨山 健, 二瓶 芙巳雄, 高瀬 裕, 中野 有紀子, マルチモーダル特徴量を用いた談話セグメントの検出. 2019年度人工知能学会全国大会（第33回）, 4F3-OS-11b-02, 新潟県新潟市, 2019/6/7
+- 曽 傑, 高瀬 裕, 中野 有紀子, 知識と話題の埋め込み表現に基づく応答生成－料理嗜好インタビューシステムに向けてー, 2019年度人工知能学会全国大会（第33回）, 2L3-J-9-01, 新潟県新潟市, 2019/6/5. <span class="emp">【全国大会優秀賞】</span>
+- 二瓶 芙巳雄　中野 有紀子　高瀬 裕，言語・非言語情報の融合に基づく重要発言の推定，第32回人工知能学会全国大会，3C1-OS-14a-03，2018年6月<span class="emp">【全国大会優秀賞】</span>
+- 曽 傑，高瀬 裕，中野 有紀子，食味表現に着目した料理嗜好対話システム，第32回人工知能学会全国大会，4G1-04，2018年6月
+- 田口和佳奈　二瓶芙巳雄　深澤伸一　赤津裕子　高瀬　裕　中野有紀子，非言語モダリティのデフォルメーションを通した多人数遠隔コミュニケーションコーパス，信学技報, vol. 117, no. 509, HCS2017-104, pp. 65-70, 2018年3月.
+- 曽傑　高瀬 裕　中野 有紀子，対話システムによるユーザの料理評価収集，SIG-SLUD，Vol. B5，No. 02，pp. 94-95，早稲田大学，2017年10月，2017.
+- 清水 瑠璃果 高瀬 裕 中野 有紀子．注視誘導によるアンビエントなコミュニケーション支援システム．HCGシンポジウム2017, 金沢，2017年12月13日. <span class="emp">【特集テーマセッション賞】</span>
+- 二瓶 芙巳雄　中野 有紀子　高瀬 裕，マルチモーダルCNNを用いた議論要約のための会話の抜粋，信学技報，Vol. 117，No. 177, pp. 55-59，2017年8月．
+- 曽 傑 高瀬 裕 中野 有紀子　対象物の特徴や機能に関する知識を獲得する対話システム，第31回人工知能学会全国大会，3B2-2，(2017年5月).
+- 冨山 健 高瀬 裕 中野 有紀子　議論中の言語・非言語情報に基づく発散的／収束的発話の識別，第31回人工知能学会全国大会，2H4-OS-35b-5 (2017年5月).
+- 清水 瑠璃果，高瀬 裕，中野 有紀子．指向性スピーカーを用いた注視行動誘導による議論支援システム．信学技報，vol. 117，no. 29，HCS2017-31，pp. 199-204，2017年5月．
+- 山中 俊貴，高瀬　裕，中野　有紀子．韻律情報と視覚情報に基づく会話活動評価値推定手法．医療情報学会・人工知能学会 AIM 合同研究会資料 SIG-AIMED-003-02, 2017年3月.
+- 西村 良太，眞鍋 麟太郎，中野 有紀子　アーキテクチャに基づき情報統合・共有を行う音声対話システムの開発，SIG-SLUD，vol. B5，number 03，pp. 79—84，2017.3.
+- 二瓶 芙巳雄，中野 有紀子，高瀬 裕　マルチモーダル非言語情報に基づく議論要約のための会話抜粋　HCGシンポジウム2016，A-2-4.
+- 岡田 将吾，大竹 圭彦，中野 有紀子，林 佑樹，黄 宏軒，高瀬 裕，新田 克己　マルチモーダルモデリングに基づくコミュニケーション能力とグループディスカッションタスクの関連性分析 HCGシンポジウム2016，A-2-5. <span class="emp">【優秀インタラクティブ発表賞】</span>
+- 佐藤祥子，高瀬裕，中野有紀子，感情語に基づくことわざ推薦システム，第15回情報科学技術フォーラム（FIT 2016）E-007．
+- 北村悠起，高瀬裕，中野有紀子，Freebaseを用いた対話システムにおける話題の選択，第15回情報科学技術フォーラム（FIT 2016）E-010．
+- 山中 俊貴，高瀬 裕，中野 有紀子，発話の韻律情報と頭部移動情報に基づく会話態度評価値予測モデルの有用性評価，第30回人工知能学会全国大会，4D1-3 (2016年6月)．
+- 二瓶 芙巳雄，高瀬 裕，中野 有紀子，意思決定型議論における非言語情報に基づく重要発言の推定，第30回人工知能学会全国大会，3F4-3．
+- 高瀬 裕，吉田 友弥，土肥 祥子，中野 有紀子，酒井 伸隆，安田 清，アニメーションエージェントとの同行を通した歩行トレーニングシステムの提案，第30回人工知能学会全国大会，1G3-4in1 (2016年6月)．
+- 門野 友城，高瀬 裕，中野 有紀子，画像データに基づく図像的ジェスチャの自動生成，第30回人工知能学会全国大会，2D4-2 (2016年6月).
+- 眞鍋 麟太郎，高瀬 裕，西村 良太，中野 有紀子，PRINTEPSにおけるロボット喫茶店の注文時ユーザモデリングの実現，第30回人工知能学会全国大会，4C4-4 (2016年6月).
+- 山中俊貴，高瀬　裕，中野有紀子，発話の韻律情報と頭部移動情報に基づく高齢者の会話活動評価値の予測，HCGシンポジウム2015/12/17．
+- 門野　友城，高瀬　裕，中野　有紀子　隠喩的ジェスチャの分析とジェスチャ自動付与に向けた検討，第29回人工知能学会全国大会，3D4-4 (2015年6月1日)，函館未来大学．
+- 田村 吉宏，鶴崎 泰斗，高瀬 裕，中野 有紀子 Wikipediaを用いた質問応答と多肢選択問題による歴史学習，第29回人工知能学会全国大会，1N2-2 (2015年5月30日)， 函館未来大学．
+- 吉野 尭，八城 美里，高瀬 裕，中野 有紀子，会話エージェントによる優位性推定に基づくグループ会話への介入，第29回人工知能学会全国大会，1I4-4 (2015年5月30日)，函館未来大学．
+- 高瀬 裕，桑原 奈央，中野 有紀子，砂遊びを通したインタラクティブな地図記号学習支援システムの提案，第29回人工知能学会全国大会，1N3-3 (2015年5月30日)，函館未来大学．
+- 塚田一史，高瀬　裕，中野有紀子高齢者が好む話題の選択と遷移を行う会話エージェント 情報処理学会 第77回全国大会，5R-01. (2015年3月)
+- 二瓶芙巳雄，中野有紀子，林　佑樹，黄　宏軒，岡田将吾 発話情報と頭部移動情報に基づく議論における影響力のある発言の予測 情報処理学会 第77回全国大会，2N-01. (2015年3月)
+- 吉野　尭，高瀬　裕，中野有紀子優位性と参与役割に基づく視線制御モデルのコミュニケーションロボットへの応用 情報処理学会 第77回全国大会，2N-02. (2015年3月)
+- 田村吉宏，高瀬　裕，中野有紀子Wikipediaを用いた選択肢付き問題の生成手法 情報処理学会 第77回全国大会，2N-07. (2015年3月)
+- 鈴木伶央，高瀬　裕，中野有紀子 ショーウィンドウ －店内情報に応じた動的な商品情報の提示－ 情報処理学会 第77回全国大会，1ZA-06AR. (2015年3月)
+- 吉野　尭・高瀬　裕・中野有紀子 優位性と参与役割に応じたコミュニケーションロボットの視線制御, 電子情報通信学会ヒューマンコミュニケーション基礎研究会　信学技報, vol. 114, no. 440, HCS2014-77, pp. 25-30, ベイリゾート小豆島, 2015年1月30日.
+- 林　佑樹，大佛　駿介，中野　有紀子：協調学習における韻律特徴を用いた発話タグ推定モデル，第39回教育システム情報学会全国大会，D5-4，pp.441-442. (2014年9月)<span class="emp">【大会奨励賞】</span>
+- 石井　亮，小澤史朗，小島　明，中野有紀子，林　佑樹，大塚和弘：ＭＩＯＳＳ：３次元空間を重畳する鏡インタフェース，第13回情報科学技術フォーラム(FIT2014)，RK-003 (2014年9月) <span class="emp">【奨励賞】</span>
+- 吉野　尭，林　佑樹，中野有紀子：多人数会話における参与役割を考慮したコミュニケーションロボットの視線制御，第13回情報科学技術フォーラム(FIT2014)，J-015 (2014年9月)
+- 鈴木 伶央，林 佑樹，中野 有紀子： ユーザ視点に基づく透過型拡張現実インタフェース， 第28回人工知能学会全国大会，3E3-2 (2014年5月)
+- 田村 吉宏，山内 崇資，林 佑樹，中野 有紀子：Wikipedia記事情報に基づく歴史学習問題の自動生成手法， 第28回人工知能学会全国大会，3D4-2 (2014年5月)
+- 塚田 一史，山内 崇資，林 佑樹，中野 有紀子：ユーザ応答の言語・非言語情報に応じた語りかけエージェントによる対話制御 ，第28回人工知能学会全国大会，2M5-OS-20b-1 (2014年5月)
+- 二瓶 芙巳雄、林 佑樹、中野 有紀子：グループディスカッションにおける議論状態の変化の検出，第28回人工知能学会全国大会，4B1-2 (2014年5月)<span class="emp">【全国大会優秀賞】</span>
+- 野中 裕子，高橋 明秀，林 佑樹，中野 有紀子発話中の非言語情報に基づく認知症高齢者の状態把握 ，第28回人工知能学会全国大会，2H3-NFC-04a-3 (2014年5月)
+- 齋藤直子，岡田将吾，新田克己，林佑樹，中野 有紀子：音声対話エージェントを利用した認知症患者の状態把握支援の試み，第28回人工知能学会全国大会，2M4-OS-20a-3(2014年5月)
+- 林 佑樹，森田 遥，中野 有紀子：協調学習インタラクションにおける非言語特性に基づく協調的態度の分析，第28回人工知能学会全国大会，1M3-1(2014年5月)
+- 二本柳咲子，林佑樹，中野有紀子： 協調学習における非言語行動分析に基づく参加者役割の推定， 情報処理学会 第76回全国大会，4ZB-2. (2014年3月)
+- 八城美里，池田直弥，林佑樹，中野有紀子： 会話参加者の優位性推定と会話制御への応用， 情報処理学会 第76回全国大会，6ZB-7. (2014年3月)
+- 二瓶芙巳雄，菅野建，林佑樹，中野有紀子，発話の音声的特徴による性格印象の評定－面接支援エージェントを目指して－， ヒューマンインタフェースシンポジウム2013，3134L，pp.683-688. (2013年9月, 東京)
+- 林佑樹，小川裕史，中野有紀子，協調学習における非言語情報を用いた学習状況可視化システム， 第27回人工知能学会全国大会, 4J1-OS-23-5. (2013年6月，富山) <span class="emp">【全国大会優秀賞】</span>
+- 齋藤直子，林佑樹，中野有紀子，認知症患者の状態把握支援のための発話内容認識手法， 第27回人工知能学会全国大会, 2G1-4. (2013年6月，富山)
+- 八城美里，林佑樹，中野有紀子，会話参加者の優位性を考慮した会話エージェントによる多人数会話への介入， 第27回人工知能学会全国大会, 1J4-OS-22b-4. (2013年6月，富山)
+- 馬場直哉，黄宏軒，林佑樹，中野有紀子, 複数人ユーザに対応可能な情報提供会話エージェント, 情報処理学会 第75回全国大会, 3ZB-8, 4_181-182, 宮城, 2013.3.
+- 野中裕子，酒井洋一，安田清，林佑樹，中野有紀子, 語りかけエージェントとの会話における韻律情報の分析, 情報処理学会 第75回全国大会, 3ZB-7, 4_179-180, 宮城, 2013.3.
+- 山内崇資，林佑樹，中野有紀子, 日本語文解析によるTwitterの感情分析とシーンインデキシングへの応用, 情報処理学会 第75回全国大会, 6R-6, 2_315-316, 宮城, 2013.3.
+- 野中 裕子, 酒井 洋一, 安田 清, 中野 有紀子, 高齢者の会話における反応性の定量化と可視化, 第26 回人工知能学会全国大会, 2A1-NFC-6-10, 山口, 2012.6.
+- 山内 崇資, 中野 有紀子, Twitterの感情解析に基づくTV番組シーン探索システム, 第26 回人工知能学会全国大会, 1C2-R-5-3, 山口, 2012.6.
+- 塚本 剛生, 中野 有紀子, 言語・空間情報に基づくメタバースアバタへのジェスチャ自動付与機構, 第74回情報処理学会全国大会, 4ZC-6, 名古屋工業大学, 2012.3.
+- 福原　佑貴, 中野　有紀子, 複数ユーザ対会話エージェントとの多人数インタラクションにおける優位性の自動推定方法, 第74回情報処理学会全国大会, 2ZJ-5, 名古屋工業大学, 2012.3.
+- 酒井　洋一, 野中　裕子, 安田　清, 中野　有紀子, 認知症患者のコミュニケーション特性の評定における会話エージェントの利用, 第74回情報処理学会全国大会, 3ZC-8, 名古屋工業大学, 2012.3.
+- 馬場　直哉, 黄　宏軒, 中野　有紀子，グループ会話対応型会話エージェントにおける受話者推定システム, HAIシンポジウム, 京都工芸繊維大学, 2011.12.
+- 酒井 洋一, 安田 清, 中野 有紀子. 会話エージェントによる認知症患者への語りかけの効果, 第10回情報科学技術フォーラム(FIT2011), J-023, 函館, 2011.9.9, 2011.
+- 柴崎優太, 上出純平, 福原佑貴, 中野有紀子. ヒューマノイドロボットのジェスチャに対する人の注視行動の分析, 第10回情報科学技術フォーラム(FIT2011), J-026, 函館, 2011.9.9, 2011.
+- 大古 亮太, 石井 亮, 中野 有紀子, 人対エージェントの会話における頭部動作情報に基づくユーザ態度の推定, 電子情報通信学会ヒューマンコミュニケーション基礎研究会 (HCS), 京都大学, 2011.8.26, 2011.
+- 福原 佑貴 上出 純平 中野 有紀子,コミュニケーションロボットにおけるジェスチャ表出の有効性, 第25 回人工知能学会全国大会, 2D2-OS5b-3, 盛岡, 2011.6.
+- 中野 有紀子 比企野 純太 安田 清, 認知症患者のための語りかけエージェント, 第25 回人工知能学会全国大会, 1A2-NFC1b-8, 盛岡, 2011.6.
+- 馬場直哉, 黄宏軒, 中野有紀子 グループ会話対応型会話エージェントにおける非言語情報による受話者決定方式，第73回情報処理学会全国大会, 3Q-3, 東京工業大学, 2011.3.
+- 大古亮太, 中野有紀子ユーザの頭部動作に基づく会話参加態度の推定，第73回情報処理学会全国大会, 3Q-4, 東京工業大学, 2011.3.
+- 塚本剛生，室谷優実，岡本雅史，中野有紀子, メタバースアバタへのジェスチャ自動付与に向けたマルチモーダルインタラクションの収集と分析, 第73回情報処理学会全国大会, 3Q-6, 東京工業大学, 2011.3.
+- 比企野純太，中野有紀子，安田　清, 会話エージェントを利用した認知症患者のためのコミュニケーション支援, 第73回情報処理学会全国大会, 4ZA-7, 東京工業大学, 2011.3.
+- 福原佑貴，中野有紀子 注視・相互注視に基づく会話参加者優位性順位の推定に向けた多人数インタラクションの分析, 第73回情報処理学会全国大会, 2ZB-2, 東京工業大学, 2011.3.
+- 法　文恵，Afia Lipi，中野有紀子, 合意形成会話における非言語行動の文化比較－文化適応的な会話エージェントの実現を目指して－, 第73回情報処理学会全国大会, 4ZD-7, 東京工業大学, 2011.3.
+- 塚本剛生，室谷優実，岡本雅史，中野有紀子　道案内対話におけるマルチモーダルインタラクションの収集と分析―メタバースアバタのためのジェスチャ自動決定にむけて―, HAIシンポジウム2010, 1A-2, 慶応大学, 2010.12.
+- 中野有紀子 会話エージェントによる多人数会話の実現を目指して－複数人ユーザの動作データの収集と分析－, 第24 回人工知能学会全国大会, 2J1-OS6-5, 2010.
+- 黄宏軒 武田信也 小野正貴 中野有紀子　複数人ユーザの協力的意思決定会話を支援する情報提供エージェント, 第24 回人工知能学会全国大会, 1C1-3, 2010.
+- 法文恵，中野有紀子 ARを用いた美術館案内エージェント, 第15回電子情報通信学会サイバーワールド研究会, 2010.3.10, 成蹊大, 2010.
+- 武田信也，中野有紀子 情報提供エージェントとの多人数対話における対話制御方式, 第72回情報処理学会全国大会, 5V-2, 2010. [情報処理学会推薦修士論文]
+- 塚本剛生，中野有紀子 日本語文章へのジェスチャー自動付与による仮想世界アバターの実現, 第72回情報処理学会全国大会, 5V-9, 2010.
+- 福原佑貴，中野有紀子 複数ユーザ対会話エージェントとの多人数インタラクションの収集と分析-参与構造の推定に向けて-, 72回情報処理学会全国大会, 2ZN-5, 2010.
